@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>linux小白从0到1的学习记录</title>
+  
+  <subtitle>linux小白从0到1的学习记录</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-10-17T11:47:33.848Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>ax</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/10/16/hello-world/"/>
+    <id>http://example.com/2021/10/16/hello-world/</id>
+    <published>2021-10-16T15:47:44.028Z</published>
+    <updated>2021-10-17T11:47:33.848Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="linux就是该这么学"><a href="#linux就是该这么学" class="headerlink" title="linux就是该这么学"></a>linux就是该这么学</h2><h3 id="基本的命令"><a href="#基本的命令" class="headerlink" title="基本的命令"></a>基本的命令</h3><h5 id="man-执行查看帮助的命令"><a href="#man-执行查看帮助的命令" class="headerlink" title="man 执行查看帮助的命令"></a>man 执行查看帮助的命令</h5><ol><li><p>长格式 man –help</p></li><li><p>短格式 man -h</p></li><li><p>可以用man man 来查看当前man命令自身的帮助信息</p></li><li><p>q退出文档</p></li></ol><h5 id="date命令"><a href="#date命令" class="headerlink" title="date命令"></a>date命令</h5><blockquote><p>date用来显示日期或者是时间</p></blockquote><p>date基本的命令</p><table><thead><tr><th>参数</th><th>作用</th></tr></thead><tbody><tr><td>%t</td><td>跳格</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table><h5 id="uname命令"><a href="#uname命令" class="headerlink" title="uname命令"></a>uname命令</h5><blockquote><p>uname命令用来查看当前系统版本的详细信息</p></blockquote><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">uname -a</span><br></pre></td></tr></table></figure><h5 id="uptime命令"><a href="#uptime命令" class="headerlink" title="uptime命令"></a>uptime命令</h5><blockquote><p>uptime命令用来查看当前系统负载，显示了当前的时间，负载信息</p></blockquote><h5 id="free命令"><a href="#free命令" class="headerlink" title="free命令"></a>free命令</h5><blockquote><p>free用来显示当前系统内存的使用量信，格式为free -h</p></blockquote><h5 id="who命令"><a href="#who命令" class="headerlink" title="who命令"></a>who命令</h5><blockquote><p>who用来查看登录主机的用户终端信息 格式为 who [参数]</p></blockquote><h5 id="last命令"><a href="#last命令" class="headerlink" title="last命令"></a>last命令</h5><blockquote><p>last命令用来查询所有系统登录记录</p></blockquote><h5 id="history命令"><a href="#history命令" class="headerlink" title="history命令"></a>history命令</h5><blockquote><p>history命令用于显示历史执行过的1000条命令记录，查询后还可以用“！编码数字”的方式来执行某一次命令,可用history -c清除记录</p></blockquote><h5 id="sosreport命令"><a href="#sosreport命令" class="headerlink" title="sosreport命令"></a>sosreport命令</h5><blockquote><p>用于收集系统配置以及架构信息并输出判断文档，格式为sosreport</p></blockquote><h5 id="pwd命令"><a href="#pwd命令" class="headerlink" title="pwd命令"></a>pwd命令</h5><blockquote><p>pwd查看当前用户所在的目录</p></blockquote><h5 id="cd命令"><a href="#cd命令" class="headerlink" title="cd命令"></a>cd命令</h5><blockquote><p>cd命令用来快速切换目录，最常见的有</p></blockquote><table><thead><tr><th align="center">格式命令</th><th>用途</th></tr></thead><tbody><tr><td align="center">cd..</td><td>进入上级目录</td></tr><tr><td align="center">cd~</td><td>切换当前目录的家目录</td></tr><tr><td align="center">cd -</td><td>返回上次的目录</td></tr><tr><td align="center"></td><td></td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;linux就是该这么学&quot;&gt;&lt;a href=&quot;#linux就是该这么学&quot; class=&quot;headerlink&quot; title=&quot;linux就是该这么学&quot;&gt;&lt;/a&gt;linux就是该这么学&lt;/h2&gt;&lt;h3 id=&quot;基本的命令&quot;&gt;&lt;a href=&quot;#基本的命令&quot; class</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
